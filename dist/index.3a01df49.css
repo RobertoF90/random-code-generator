@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  display: flex;
+}
+
+button {
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */

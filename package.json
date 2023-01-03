@@ -1,0 +1,31 @@
+{
+  "name": "random-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoF90/random-code-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoF90/random-code-generator/issues"
+  },
+  "homepage": "https://github.com/RobertoF90/random-code-generator#readme",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "unique-string": "^3.0.0"
+  },
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.5"
+  }
+}
